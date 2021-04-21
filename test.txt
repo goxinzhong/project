@@ -1,2 +1,11 @@
 12
+<<<<<<< Updated upstream
 3
+=======
+34
+31
+bb
+aa
+12
+>>>>>>> Stashed changes
+1
